@@ -5,6 +5,8 @@
 
 export const environment = {
   production: false,
+  firebase:
+  {
   apiKey: "AIzaSyAU2-_9axlMtx7rOE94MIdZYZ5FDeF314s",
     authDomain: "insectes-bca64.firebaseapp.com",
     projectId: "insectes-bca64",
@@ -12,5 +14,5 @@ export const environment = {
     messagingSenderId: "578411072107",
     appId: "1:578411072107:web:0d55fc5e213144da85bf2e",
     measurementId: "G-603RP901BL"
-  
+  }
 };
